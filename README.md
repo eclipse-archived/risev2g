@@ -1,7 +1,12 @@
 ### !! IMPORTANT NOTE REGARDING FURTHER DEVELOPMENT !! ###
-THIS PROJECT IS FURTHER MAINTAINED AT [https://github.com/V2GClarity/RISE-V2G](https://github.com/V2GClarity/RISE-V2G).  
+THIS PROJECT IS FURTHER MAINTAINED AT [https://github.com/V2GClarity/RISE-V2G](https://github.com/V2GClarity/RISE-V2G) UNDER THE MIT LICENSE.  
 
+VERSION 1.0 OF RISE V2G IS THE FIRST PROVEN VERSION TO CORRECTLY HANDLE SIGNATURES, CERTIFICATE INSTALLATION, AND CERTIFICATE UPDATE. 
 
+FROM VERSION 1.0 ON, MAINTANANCE IS DONE AT [https://github.com/V2GClarity/RISE-V2G](https://github.com/V2GClarity/RISE-V2G).
+  
+  
+    
 ### About RISE V2G
 
 [![Join the chat at https://gitter.im/eclipse/risev2g](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eclipse/risev2g?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
